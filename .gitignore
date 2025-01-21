@@ -1,0 +1,6 @@
+# VScode files
+.vscode/*
+
+# platform io files
+.pio/*
+platformio.ini
